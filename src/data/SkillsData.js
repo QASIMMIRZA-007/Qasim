@@ -3,8 +3,6 @@ export const skillsData = [
     'CSS',
     'Javascript',
     'Typescript',
-    'C++',
-    'Python',
     'React',
     'Next JS',
     'ViteJS',
@@ -13,8 +11,6 @@ export const skillsData = [
     'Bootstrap',
     'Tailwind',
     'Figma',
-    'canva',
     'Firebase',
-    'Photoshop',
 ]
 
